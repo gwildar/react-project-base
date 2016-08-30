@@ -1,4 +1,6 @@
 # react-project-base
-A base project template for React.
+A base project scaffold for React.
 
-Includes: webpack, webpack-server, redux, react-redux, react-bootstrap, bootstrap-material-design, karma, esLint
+Sets up linting, webpack-server, tests etc for a React project.
+
+Includes: webpack, webpack-server, classnames, redux, react-redux, react-bootstrap, bootstrap-material-design, karma, eslint, lodash

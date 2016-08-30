@@ -66,7 +66,6 @@
     "bootstrap": "^3.3.7",
     "bootstrap-material-design": "^0.5.10",
     "classnames": "^2.2.5",
-    "jquery": "^3.1.0",
     "lodash": "^4.15.0",
     "react": "^15.3.0",
     "react-bootstrap": "^0.30.1",
