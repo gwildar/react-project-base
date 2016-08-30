@@ -1,0 +1,17 @@
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*~
+
+# node.js
+npm-debug.log
+node_modules
+
+# Webpack
+dist/*
+!dist/.gitkeep
+
+# Mac OS X hidden files
+.DS_Store

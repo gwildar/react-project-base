@@ -1,0 +1,23 @@
+{
+    "env": {
+        "es6": true,
+        "browser": true,
+        "jquery": true
+    },
+    "parser": "babel-eslint",
+    "parserOptions": {
+        "ecmaVersion": 6,
+        "sourceType": "module",
+        "ecmaFeatures": {
+            "jsx": true
+        }
+    },
+    "plugins": [
+        "react",
+        "jsx-a11y"
+    ],
+    "extends": ["airbnb"],
+    "rules": {
+        "no-empty": ["error", { "allowEmptyCatch": true }]
+    }
+}
